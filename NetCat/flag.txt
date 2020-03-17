@@ -1,0 +1,3 @@
+picoCTF{NEtcat_iS_a_NEcESSiTy_8b6a1fbc}
+
+soal : 2018shell.picoctf.com 49387

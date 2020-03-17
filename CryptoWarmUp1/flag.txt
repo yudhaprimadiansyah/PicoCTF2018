@@ -1,0 +1,7 @@
+picoCTF{SECRETMESSAGE}
+
+
+soal : llkjmlmpadkkc
+key : thisisalilkey
+
+coba tebak apa ini ? hehe
