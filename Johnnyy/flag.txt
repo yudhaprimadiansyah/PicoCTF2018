@@ -1,0 +1,3 @@
+picoCTF{J0hn_1$_R1pp3d_4e5aa29e}
+
+soal : nc 2018shell.picoctf.com 38860

@@ -1,0 +1,4 @@
+picoCTF{ur_4_real_1nspect0r_g4dget_e96dd105}
+
+
+soal : http://2018shell.picoctf.com:47428 
