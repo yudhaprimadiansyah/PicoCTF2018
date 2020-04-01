@@ -1,0 +1,4 @@
+soal : /problems/grep-2_3_826f886f547acb8a9c3fccb030e8168d/files
+files in subtree dir
+
+flag : picoCTF{grep_r_and_you_will_find_556620f7}
